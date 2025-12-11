@@ -1,0 +1,18 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:60bddab9637acb2d31cef6ec13d5ff38:144c8cc902bdde4644d11a051d165e4e:fafef8b61cc667a6b66657440ac5ad38$
+#
+:format=40300
+:texture=sk_anim_place_female.png
+:size=512x2048
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+sketchbook_anim_femaleplace_1;0;1445;464;603; 0.5;0.5; 0;0;0;0
+sketchbook_anim_femaleplace_2;0;842;464;603; 0.5;0.5; 0;0;0;0
+sketchbook_anim_femaleplace_3;0;239;464;603; 0.5;0.5; 0;0;0;0

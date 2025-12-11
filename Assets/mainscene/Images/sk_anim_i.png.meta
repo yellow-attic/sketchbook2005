@@ -1,0 +1,686 @@
+fileFormatVersion: 2
+guid: 55d716dfae6b344e89fe1c8896d7750c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sketchbook_anim_i_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 334
+        width: 41
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5609756, y: 0.49438202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89add89221a484f50b819f88ee723119
+      internalID: 568883716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sketchbook_anim_i_10
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 57
+        width: 66
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4aac800021846dc98137e51ddd7510
+      internalID: 22396201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sketchbook_anim_i_11
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 147
+        width: 56
+        height: 89
+      alignment: 9
+      pivot: {x: 0.53571427, y: 0.46067417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4d735c0547f4a2aa860fcc0f1efa79
+      internalID: -1526962617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sketchbook_anim_i_12
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 145
+        width: 56
+        height: 91
+      alignment: 9
+      pivot: {x: 0.44642857, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fa613b02930451ca33ae456ca59a1d
+      internalID: 1753455590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sketchbook_anim_i_13
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 152
+        width: 54
+        height: 84
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.47619048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c67b15cfc03e43b3a4bc8263b3680b4
+      internalID: -1455414773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sketchbook_anim_i_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 58
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5344828, y: 0.53763443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bba87ca741b4696a1555a92ca091b3
+      internalID: 1758029973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sketchbook_anim_i_15
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 423
+        width: 39
+        height: 89
+      alignment: 9
+      pivot: {x: 0.4871795, y: 0.47191012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa682d9b6b32d4ff3a5a47326c41602b
+      internalID: -752575348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sketchbook_anim_i_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 427
+        width: 33
+        height: 85
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a0dc8e9cfcf43948b06ce20bf5175c
+      internalID: -364214639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sketchbook_anim_i_17
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 423
+        width: 35
+        height: 89
+      alignment: 9
+      pivot: {x: 0.45714286, y: 0.43820226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11c296021a7641688f3f1d5e2a0d855
+      internalID: -380772040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sketchbook_anim_i_18
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 433
+        width: 34
+        height: 79
+      alignment: 9
+      pivot: {x: 0.44117647, y: 0.49367088}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db71c45153624f38bf9efc1bf3f49ad
+      internalID: 1711358130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sketchbook_anim_i_19
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 327
+        width: 41
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c658a45561fbf4aa290021b9d4b61d30
+      internalID: -598320003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sketchbook_anim_i_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 238
+        width: 49
+        height: 89
+      alignment: 9
+      pivot: {x: 0.46938777, y: 0.48314607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad579fe0a6284750833e727041ebfb0
+      internalID: -1530814297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sketchbook_anim_i_20
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 340
+        width: 40
+        height: 83
+      alignment: 9
+      pivot: {x: 0.475, y: 0.48192772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3457ec7a3e74d47149af69a4ff3f1c7d
+      internalID: 644189407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sketchbook_anim_i_21
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 340
+        width: 41
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.4939759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b761135c70cfe40d39a1e96e7e900b3a
+      internalID: 1829846056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sketchbook_anim_i_22
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 242
+        width: 49
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5510204, y: 0.49411765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57cf1f75ec85467197e0050014d416c
+      internalID: -189105340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sketchbook_anim_i_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 236
+        width: 45
+        height: 91
+      alignment: 9
+      pivot: {x: 0.51111114, y: 0.4945055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7439f01d1fb52414291d35a7477caaf7
+      internalID: -1029128764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sketchbook_anim_i_24
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 334
+        width: 44
+        height: 89
+      alignment: 9
+      pivot: {x: 0.47727272, y: 0.46067417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ed5c621fa5e443098d96010b06421d
+      internalID: -1451479906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sketchbook_anim_i_25
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 430
+        width: 35
+        height: 82
+      alignment: 9
+      pivot: {x: 0.37142858, y: 0.47560975}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb53605841cc44bb826168948c6ef64
+      internalID: -782071629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sketchbook_anim_i_26
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 426
+        width: 38
+        height: 86
+      alignment: 9
+      pivot: {x: 0.39473686, y: 0.4651163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c734e02862a4a5eb9e2e4d36c19fee
+      internalID: -1332231139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sketchbook_anim_i_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 52
+        height: 93
+      alignment: 9
+      pivot: {x: 0.44230768, y: 0.50537634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9e90281b0ce4c63a3d08a8e459658d
+      internalID: -1376461352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sketchbook_anim_i_4
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 237
+        width: 48
+        height: 90
+      alignment: 9
+      pivot: {x: 0.6041667, y: 0.45555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c1c3747e3cb40dfbcd13110d9d2c40
+      internalID: -1959710771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sketchbook_anim_i_5
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 425
+        width: 38
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0519c7e2a6d044bbb38dce5d408c9fa
+      internalID: -83766765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sketchbook_anim_i_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 335
+        width: 40
+        height: 88
+      alignment: 9
+      pivot: {x: 0.55, y: 0.47727272}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a8e272eb663425e940e33f8962ff48
+      internalID: 1013375138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sketchbook_anim_i_7
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 237
+        width: 47
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5106383, y: 0.44444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78c544dfe347482bbafe2308a11a713
+      internalID: 573978802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sketchbook_anim_i_8
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 52
+        width: 60
+        height: 91
+      alignment: 9
+      pivot: {x: 0.4, y: 0.52747256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a6be1c113c747c5bc091bf929c9a4c
+      internalID: -1006738877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sketchbook_anim_i_9
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 52
+        width: 65
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5692308, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e2fc955c58541c28400856d7162bc8
+      internalID: 2005139291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9ed4d3dddea6b41cd80df3c6b578480b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sketchbook_anim_i_1: 568883716
+      sketchbook_anim_i_10: 22396201
+      sketchbook_anim_i_11: -1526962617
+      sketchbook_anim_i_12: 1753455590
+      sketchbook_anim_i_13: -1455414773
+      sketchbook_anim_i_14: 1758029973
+      sketchbook_anim_i_15: -752575348
+      sketchbook_anim_i_16: -364214639
+      sketchbook_anim_i_17: -380772040
+      sketchbook_anim_i_18: 1711358130
+      sketchbook_anim_i_19: -598320003
+      sketchbook_anim_i_2: -1530814297
+      sketchbook_anim_i_20: 644189407
+      sketchbook_anim_i_21: 1829846056
+      sketchbook_anim_i_22: -189105340
+      sketchbook_anim_i_23: -1029128764
+      sketchbook_anim_i_24: -1451479906
+      sketchbook_anim_i_25: -782071629
+      sketchbook_anim_i_26: -1332231139
+      sketchbook_anim_i_3: -1376461352
+      sketchbook_anim_i_4: -1959710771
+      sketchbook_anim_i_5: -83766765
+      sketchbook_anim_i_6: 1013375138
+      sketchbook_anim_i_7: 573978802
+      sketchbook_anim_i_8: -1006738877
+      sketchbook_anim_i_9: 2005139291
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
